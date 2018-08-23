@@ -24,5 +24,6 @@ Following tables are used :
      check (uid1 < uid2));. 
      
      
- Credit : Silu Panda    
+Above Assignment is done in group of 2 
+Deepak Meena and Silu Panda
      
